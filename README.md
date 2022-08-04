@@ -22,4 +22,4 @@ E ja estou iniciando com:
 
 [![gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabreuxx)](https://github.com/anuraghazra/github-readme-stats)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xwdywy6blf5yhypagbpfeim6be)
+

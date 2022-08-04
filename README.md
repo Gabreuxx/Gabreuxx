@@ -1,16 +1,25 @@
-### Hi there 👋
+ Hi there 👋
+ <br>
+Sou o Gabriel,estou estudando sobre programação atualmente estou criando projetos com: 
 
-<!--
-**Gabreuxx/Gabreuxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-HTML 
+<br>
+-CSS 
+<br>
+E ja estou iniciando com:
+<br>
 
-Here are some ideas to get you started:
+-JavaScript 
+<br>
+-React 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<a href="https://www.instagram.com/gabreu.av/"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a/>
+<br>
+
+
+[![gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabreuxx)](https://github.com/anuraghazra/github-readme-stats)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xwdywy6blf5yhypagbpfeim6be)
